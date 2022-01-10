@@ -171,6 +171,8 @@
 > 1. [Khóa Học Luyện thi lấy chứng chỉ quốc tế ISTQB Foundation cho Tester](https://drive.google.com/file/d/1rpOl8aWb_8z8d8BzxTtkd4zwcP3pLsTA/view)
 > 2. [The Complete Dart Learning Guide [2022 Edition] (Udemy - Engsub)](https://drive.google.com/file/d/1Zyemt75SwjG67eeS4SOPifBvfjIWm5tR/view)
 > 3. [Khóa học ASP.NET và Xây dựng hoàn chỉnh ứng dụng website động](https://drive.google.com/file/d/1atjKPYBcpWQLOLQu_c4_yVZXiGOOyRRM/view)
+> 4. [ Khóa Học Master HTML: 5 from very beginner to Pro](https://drive.google.com/file/d/1SOPS2fVVa8xzrLRhcpVOfaUowTdnozQI/view)
+> 5. [Khóa Học Khủng The Web Developer Bootcamp](https://drive.google.com/drive/mobile/folders/1JmqjtiM1mNHfCrKmssgsPWmPd-1msA6x?usp=sharing)
 ---
 
 ### Mọi khóa học đều là miễn phí trên internet. Nghiêm cấm hành vi buôn bán những khóa học này.
