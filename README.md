@@ -167,12 +167,14 @@
 > 3. [Giải tích 2](https://drive.google.com/drive/folders/1aeb1qNgoSmhFM4cbleMvc_MxUO8vxI1H?usp=sharing)
 > 4. [Xác suất thống kê](https://drive.google.com/drive/folders/1QkICJe1ZUCZFGgAPCkGcw_ekp6jQSq-8?usp=sharing)
 > 5. [Mathematica Cơ bản](https://drive.google.com/drive/folders/1q4DQnx3lt5sQKMMjHvwZd0DcV5uug1-J?usp=sharing)
-## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50">Tham Khảo Thêm
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50">Tham Khảo Thêm Khóa Học Tiếng Anh
 > 1. [Khóa Học Luyện thi lấy chứng chỉ quốc tế ISTQB Foundation cho Tester](https://drive.google.com/file/d/1rpOl8aWb_8z8d8BzxTtkd4zwcP3pLsTA/view)
 > 2. [The Complete Dart Learning Guide [2022 Edition] (Udemy - Engsub)](https://drive.google.com/file/d/1Zyemt75SwjG67eeS4SOPifBvfjIWm5tR/view)
 > 3. [Khóa học ASP.NET và Xây dựng hoàn chỉnh ứng dụng website động](https://drive.google.com/file/d/1atjKPYBcpWQLOLQu_c4_yVZXiGOOyRRM/view)
 > 4. [ Khóa Học Master HTML: 5 from very beginner to Pro](https://drive.google.com/file/d/1SOPS2fVVa8xzrLRhcpVOfaUowTdnozQI/view)
 > 5. [Khóa Học Khủng The Web Developer Bootcamp](https://drive.google.com/drive/mobile/folders/1JmqjtiM1mNHfCrKmssgsPWmPd-1msA6x?usp=sharing)
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50">Tham Khảo Thêm
+> 1. [Khóa Học Thiết kế Web với HTML và CSS](https://drive.google.com/file/d/1X5QuKDGFRXe19ZDswIeVJvVs1rsiWcCP/view)
 ---
 
 ### Mọi khóa học đều là miễn phí trên internet. Nghiêm cấm hành vi buôn bán những khóa học này.
