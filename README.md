@@ -177,6 +177,7 @@
 > 1. [Khóa Học Thiết kế Web với HTML và CSS](https://drive.google.com/file/d/1X5QuKDGFRXe19ZDswIeVJvVs1rsiWcCP/view)
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50">Google Diver Tham Khảo
 > 1. [300TB Tài Liệu ĐỦ MỌI THỂ LOẠI](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)
+> 2. [1000+ khóa học Edu.mall, Uni.ca, Ude.my, Kt.CITY](https://drive.google.com/drive/u/0/folders/1f7SPZ99uIr65LeCBnFj7UX7wIkaJe9sk)
 
 ---
 
