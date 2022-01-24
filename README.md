@@ -175,6 +175,8 @@
 > 5. [Khóa Học Khủng The Web Developer Bootcamp](https://drive.google.com/drive/mobile/folders/1JmqjtiM1mNHfCrKmssgsPWmPd-1msA6x?usp=sharing)
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50">Tham Khảo Thêm
 > 1. [Khóa Học Thiết kế Web với HTML và CSS](https://drive.google.com/file/d/1X5QuKDGFRXe19ZDswIeVJvVs1rsiWcCP/view)
+> 2. [ĐẦU TƯ CHỨNG KHOÁN TRONG THỜI KỲ KHỦNG HOẢNG ( Zoom - 18/9/2021)](https://drive.google.com/file/d/1pk0LXNiSxTjchQTqXWGKAXQQWY09GCp1/view)
+> 3. [Mô hình nến và các động thái về giá trong chứng khoán](https://drive.google.com/file/d/1NF6BM4c55rZyVDRpjPTHKNmM3dpJOpra/view)
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50">Google Diver Tham Khảo
 > 1. [300TB Tài Liệu ĐỦ MỌI THỂ LOẠI](https://drive.google.com/drive/folders/1oCMgJeBc55NuEasPcgwjx2FuPdQd8neu)
 > 2. [1000+ khóa học Edu.mall, Uni.ca, Ude.my, Kt.CITY](https://drive.google.com/drive/u/0/folders/1f7SPZ99uIr65LeCBnFj7UX7wIkaJe9sk)
