@@ -1,4 +1,6 @@
 # Tập hợp khoá học tiếng việt
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50">Google Tiếng Anh
+> 1. [CHIẾN LƯỢC TĂNG ĐIỂM ĐỌC KÌ THI IELTS](https://drive.google.com/drive/u/0/folders/1RsQxH7rOIZYDJMlzM2JnTs0V_MW5FMGb)
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-46-55-icons8_android_os_64px.png" title="" alt="icons8_android_os_64px.png" width="50"> Android
 
@@ -7,6 +9,7 @@
 > 3. [Lập trình Kotlin toàn tập](https://drive.google.com/drive/folders/1BbuBxi5aM8kZO35mdRjUXojZJQM7f08H?usp=sharing)
 > 4. [Clone ứng dụng Foody sử dụng Android và FireBase Realtime](https://drive.google.com/drive/folders/1ARD9D4cnAhnLGm82kyDXHe-UjAVB20dt?usp=sharing)
 > 5. [Lập trình ứng dụng Android trong 6 tuần](https://drive.google.com/drive/folders/1099DRNmDE9L1CZdowqN92dK_JJeYSHKv?usp=sharing)
+
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-51-15-icons8_c%2B%2B_48px_2.png" title="" alt="icons8_c++_48px_2.png" width="50">C/C++
 
