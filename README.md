@@ -108,6 +108,7 @@
 > 4. [Robotics Căn Bản-Chế Tạo Robot Điều Khiển Bằng Bluetooth](https://drive.google.com/drive/folders/1uk-sxbqqy51nBki-wd7CZMIPIoqBOgkP?usp=sharing)
 > 5. [Xây Dựng Sản Phẩm Internet of Things](https://drive.google.com/drive/folders/1l93NStH60RhW3pwOgPpY3eQUlEk3pXYj?usp=sharing)
 > 6. [Lập trình điều khiển cánh tay robot trong 7 ngày](https://drive.google.com/drive/folders/1oSyf0Mc4QPZp10FkjL6N-sAujbQVZ7De?usp=sharing)
+> 7. [Course Embedded System Arduino (Udemy - EngSub)](https://drive.google.com/drive/folders/1ZN9LWThGBPaPQ5qub1jTslyK2JaB-6Fv)
 
 ## ![icons8_java_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-56-37-icons8_java_48px.png) Java
 
