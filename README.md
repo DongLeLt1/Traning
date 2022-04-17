@@ -191,6 +191,7 @@
 > 7. [Guitar đệm hát 30 ngày cùng Hiển Râu](https://drive.google.com/drive/folders/1sGHulw8f432kptJCGqW5aaEIC2t70C14)
 > 8. [TIẾNG HÀN SƠ CẤP_TOPIK 1.](https://drive.google.com/file/d/1Z5JTXiw0-hFQv1q5Za_P10h2_q4ZmdW3/view)
 > 9. [Dựng phim nâng cao ca nhạc & hiệu ứng kỹ xảo với Adobe Premiere CC](https://drive.google.com/drive/u/0/folders/1F8SYD_IYLh22HFn2DXhMbo5IOXp4zr8z?fbclid=IwAR285MrgzDEnEVvMIAg7uJ-lrKxlM-kb__-CkNzOXMVOsrUbBv1PV-AriYc)
+> 10. [Khóa học](https://drive.google.com/drive/folders/1KrV-zFp4ijBrSYR8MPWEjS-gMpM6nPYn)
 
 ---
 
