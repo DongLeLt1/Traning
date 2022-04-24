@@ -192,7 +192,11 @@
 > 8. [TIẾNG HÀN SƠ CẤP_TOPIK 1.](https://drive.google.com/file/d/1Z5JTXiw0-hFQv1q5Za_P10h2_q4ZmdW3/view)
 > 9. [Dựng phim nâng cao ca nhạc & hiệu ứng kỹ xảo với Adobe Premiere CC](https://drive.google.com/drive/u/0/folders/1F8SYD_IYLh22HFn2DXhMbo5IOXp4zr8z?fbclid=IwAR285MrgzDEnEVvMIAg7uJ-lrKxlM-kb__-CkNzOXMVOsrUbBv1PV-AriYc)
 > 10. [Khóa học](https://drive.google.com/drive/folders/1KrV-zFp4ijBrSYR8MPWEjS-gMpM6nPYn)
-
----
-
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-54-10-icons8_website_64px.png" title="" alt="icons8_website_64px.png" width="50"> 
+Học làm web cùng Jonas Schmedtmann
+> 1.[The Complete JavaScript Course 2022: From Zero to Expert!](https://drive.google.com/drive/folders/1mFH3kSzvrjZ0rhVSBK9GXdSkz02go82h)
+> 2.[Build Responsive Real-World Websites with HTML and CSS](https://drive.google.com/file/d/1hQjv2bWkgNoTlu_XsVX5aFNKzTNEqy0F/view)
+> 3.[Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://drive.google.com/drive/folders/1pxjGQz26_p2pV2_k6hWgi4I_C9ZpuLDC)
+> 4.[Node.js, Express, MongoDB & More: The Complete Bootcamp 2022](http://nhasachtinhoc.blogspot.com/2019/07/chia-se-khoa-hoc-nodejs-express-mongodb.html)
+> 
 ### Mọi khóa học đều là miễn phí trên internet. Nghiêm cấm hành vi buôn bán những khóa học này.
